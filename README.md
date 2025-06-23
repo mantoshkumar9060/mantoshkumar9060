@@ -9,7 +9,7 @@
 - 🧑‍💻 2+ years of experience in **Java Backend Development, Spring Boot, REST APIs, and Angular**  
 - ⚙️ Skilled in **Microservices, SQL, Git, Docker**, and **CI/CD** workflows  
 - 🌱 Continuously learning **System Design, DSA**, and **Cloud Technologies**  
-- 🚀 Aspiring to work with top product-based companies like **Amazon, Google, and Meta**  
+- 🚀 Aspiring to work with top product-based companies**
 - 📫 Reach me at: **mantoshkumar9060@gmail.com**  
 
 ---
