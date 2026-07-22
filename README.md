@@ -20,7 +20,7 @@ Building scalable backend systems and modern web applications with clean archite
 
 # 💫 About Me
 
-💼 Java Full Stack Developer with **~3 years of experience** building enterprise-grade applications using **Java, Spring Boot, Microservices, Angular, Kafka, REST APIs, SQL, Docker, and AWS.**
+💼 Java Full Stack Developer with **3+ years of experience** building enterprise-grade applications using **Java, Spring Boot, Microservices, Angular, Kafka, REST APIs, SQL, Docker, and AWS.**
 
 🚀 Passionate about designing secure, scalable, and high-performance backend systems while developing responsive and user-friendly frontend applications.
 
