@@ -6,7 +6,7 @@
 </p>
 
 - 💼 Currently working as a **Software Developer** at **Tech Mahindra**  
-- 🧑‍💻 2+ years of experience in **Java Backend Development, Spring Boot, REST APIs, and Angular**  
+- 🧑‍💻 3+ years of experience in **Java Backend Development, Spring Boot, REST APIs, and Angular**  
 - ⚙️ Skilled in **Microservices, SQL, Git, Docker**, and **CI/CD** workflows  
 - 🌱 Continuously learning **System Design, DSA**, and **Cloud Technologies**  
 - 🚀 Aspiring to work with top product-based companies**
