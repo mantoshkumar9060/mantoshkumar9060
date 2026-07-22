@@ -1,70 +1,162 @@
 <h1 align="center">Hi 👋, I'm Mantosh Kumar</h1>
-<h3 align="center">A Passionate Software Developer | Java | Spring Boot | Angular</h3>
+
+<h3 align="center">
+Java Backend Developer | Spring Boot | Microservices | Angular | Kafka | AWS | REST APIs
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mantoshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="mantoshkumar" />
+Building scalable backend systems and responsive web applications with clean architecture and modern technologies.
 </p>
 
-- 💼 Currently working as a **Software Developer** at **Tech Mahindra**  
-- 🧑‍💻 3+ years of experience in **Java Backend Development, Spring Boot, REST APIs, and Angular**  
-- ⚙️ Skilled in **Microservices, SQL, Git, Docker**, and **CI/CD** workflows  
-- 🌱 Continuously learning **System Design, DSA**, and **Cloud Technologies**  
-- 🚀 Aspiring to work with top product-based companies**
-- 📫 Reach me at: **mantoshkumar9060@gmail.com**  
-
----
-
-### 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarmantosh9060/)
-
----
-
-### 👨‍💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mantoshkumar9060/)  
-🔹 Solved 100+ Problems on LeetCode  
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mantoshkumar9060)  
-🔹 Java and MySQL badge holder  
-
-[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD3A58?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.naukri.com/code360/profile/Mantoshkumar)  
-🔹 Solved 250+ Java DSA problems 
-
----
-
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### ☁️ Clouds & 🗃️ Databases
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🌐 Web Technologies
-- ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-#### 🚀 DevOps & Tools
-- ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mantoshkumar&show_icons=true&theme=radical" alt="Mantosh's GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=mantoshkumar9060&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-> *“Code. Learn. Repeat. Success is built daily with discipline.”*
+## 💫 About Me
 
+- 💼 Java Backend Developer with **~3 years of experience** building enterprise applications using **Java, Spring Boot, Microservices, REST APIs, Kafka, and SQL**.
+- 🌐 Hands-on experience developing frontend applications using **Angular, TypeScript, HTML5, CSS3, and JavaScript**.
+- ⚙️ Experienced in designing secure, scalable, and production-ready applications using **Spring Security, JWT, Docker, AWS, and CI/CD**.
+- 🚀 Passionate about writing clean code, solving complex backend problems, and building high-performance distributed systems.
+- 🌱 Currently learning **System Design, Kubernetes, Redis, and Advanced Microservices**.
+- 📫 Email: **mantoshkumar9060@gmail.com**
+
+---
+
+# 🚀 Featured Project
+
+## 💳 FinVault – Digital Wallet Backend
+
+Production-grade backend application built using:
+
+- Java 17
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- Kafka
+- MySQL
+- Hibernate/JPA
+- Docker
+
+### Features
+
+- 🔐 JWT Authentication & Authorization
+- 👥 Role-Based Access Control (RBAC)
+- 💸 Atomic Credit/Debit Transactions
+- 🔁 Idempotency Support
+- 📑 Transaction History with Pagination
+- 📋 Audit Logging
+- 🐳 Dockerized Application
+- ⚡ Optimized Database Queries
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+- Java
+- TypeScript
+- JavaScript
+- SQL
+- Python
+- C++
+
+## ⚙️ Backend
+
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Hibernate
+- JPA
+- REST APIs
+- Microservices
+- Kafka
+- JWT Authentication
+
+## 🌐 Frontend
+
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+
+## 🗄️ Databases
+
+- MySQL
+- MongoDB
+- PostgreSQL
+
+## ☁️ Cloud & DevOps
+
+- AWS
+- Docker
+- Jenkins
+- Git
+- GitHub Actions
+- Azure DevOps
+
+---
+
+# 🏗 Backend Expertise
+
+- REST API Design
+- Microservices Architecture
+- JWT Authentication
+- Spring Security
+- Kafka Messaging
+- SQL Query Optimization
+- Database Indexing
+- Transaction Management
+- Design Patterns
+- Docker Containerization
+- CI/CD Pipelines
+
+---
+
+# 👨‍💻 Coding Profiles
+
+### LeetCode
+
+✅ Solved 100+ Problems
+
+### HackerRank
+
+🏅 Java & MySQL Badge Holder
+
+### Coding Ninjas
+
+✅ Solved 250+ DSA & SQL Problems
+
+---
+
+# 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kumarmantosh9060/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mantoshkumar9060&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantoshkumar9060&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mantoshkumar9060&theme=tokyonight"/>
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Building scalable backend systems and intuitive user interfaces—one commit at a time."*
